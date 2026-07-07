@@ -174,17 +174,17 @@ Per-country deep dive with 7 selector buttons (USA, Russia, China, India, Europe
 
 | Page | Preview |
 |---|---|
-| Page 1: Overview | ![](screenshots/page1_overview.png) |
-| Page 2: Cold War Era | ![](screenshots/page2_coldwar.png) |
-| Page 2: Quiet Middle | ![](screenshots/page2_quietmiddle.png) |
-| Page 2: New Eruption | ![](screenshots/page2_neweruption.png) |
-| Page 3: USA | ![](screenshots/page3_usa.png) |
-| Page 3: Russia | ![](screenshots/page3_russia.png) |
-| Page 3: China | ![](screenshots/page3_china.png) |
-| Page 3: India | ![](screenshots/page3_india.png) |
-| Page 3: Europe | ![](screenshots/page3_europe.png) |
-| Page 3: Japan | ![](screenshots/page3_japan.png) |
-| Page 3: Others | ![](screenshots/page3_others.png) |
+| Page 1: Overview | ![](screenshots/Overview%20page.jpg) |
+| Page 2: Cold War Era | ![](screenshots/Page%202%20Cold%20War%20Era.jpg) |
+| Page 2: Quiet Middle | ![](screenshots/Page%202%20Quite%20Middle%20Era.jpg) |
+| Page 2: New Eruption | ![](screenshots/Page%202%20New%20Eruption%20Era.jpg) |
+| Page 3: USA | ![](screenshots/USA.jpg) |
+| Page 3: Russia | ![](screenshots/Russia.jpg) |
+| Page 3: China | ![](screenshots/China.jpg) |
+| Page 3: India | ![](screenshots/India.jpg) |
+| Page 3: Europe | ![](screenshots/Europe.jpg) |
+| Page 3: Japan | ![](screenshots/Japan.jpg) |
+| Page 3: Others | ![](screenshots/Others.jpg) |
 
 ---
 
@@ -199,17 +199,17 @@ the-new-space-race/
 │   └── space_budgets.csv        # Annual space budgets 2000 to 2024
 │
 ├── screenshots/
-│   ├── page1_overview.png
-│   ├── page2_coldwar.png
-│   ├── page2_quietmiddle.png
-│   ├── page2_neweruption.png
-│   ├── page3_usa.png
-│   ├── page3_russia.png
-│   ├── page3_china.png
-│   ├── page3_india.png
-│   ├── page3_europe.png
-│   ├── page3_japan.png
-│   └── page3_others.png
+│   ├── Overview page.jpg
+│   ├── Page 2 Cold War Era.jpg
+│   ├── Page 2 Quite Middle Era.jpg
+│   ├── Page 2 New Eruption Era.jpg
+│   ├── USA.jpg
+│   ├── Russia.jpg
+│   ├── China.jpg
+│   ├── India.jpg
+│   ├── Europe.jpg
+│   ├── Japan.jpg
+│   └── Others.jpg
 │
 ├── 01_extract.py                # API extraction script (Launch Library 2)
 ├── 02_clean.py                  # Data cleaning script
