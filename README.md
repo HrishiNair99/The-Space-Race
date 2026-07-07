@@ -1,5 +1,5 @@
 # The New Space Race
-### 70 Years of Orbital Launches — A Power BI Dashboard
+### 70 Years of Orbital Launches - A Power BI Dashboard
 
 ![Dashboard Preview](screenshots/Overview%20page.jpg)
 
