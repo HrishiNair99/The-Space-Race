@@ -1,0 +1,43 @@
+country,year,budget_bn_usd,notes
+USA,2000,13.6,NASA civil budget
+USA,2005,16.2,NASA civil budget
+USA,2010,18.7,NASA civil budget
+USA,2015,18.0,NASA civil budget
+USA,2020,22.6,NASA civil budget
+USA,2022,25.4,NASA civil budget
+USA,2024,79.7,Includes civil + defense space
+China,2000,1.0,Estimated - CNSA does not fully disclose
+China,2005,1.8,Estimated
+China,2010,3.0,Estimated
+China,2015,6.1,Estimated
+China,2020,8.9,Estimated
+China,2022,12.0,Estimated
+China,2024,19.0,Estimated - includes civil + military
+Russia,2000,0.5,Roscosmos budget
+Russia,2005,0.9,Roscosmos budget
+Russia,2010,2.4,Roscosmos budget
+Russia,2015,3.7,Roscosmos budget (peak)
+Russia,2020,2.8,Roscosmos budget (declined post-sanctions)
+Russia,2022,2.5,Roscosmos budget
+Russia,2024,3.0,Estimated
+Europe,2000,2.5,ESA total budget
+Europe,2005,3.0,ESA total budget
+Europe,2010,3.9,ESA total budget
+Europe,2015,5.0,ESA total budget
+Europe,2020,7.2,ESA total budget
+Europe,2022,8.3,ESA total budget
+Europe,2024,9.0,ESA total budget
+India,2000,0.3,ISRO budget
+India,2005,0.5,ISRO budget
+India,2010,0.9,ISRO budget
+India,2015,1.1,ISRO budget
+India,2020,1.8,ISRO budget
+India,2022,2.0,ISRO budget
+India,2024,2.5,ISRO budget
+Japan,2000,1.8,JAXA + other agencies
+Japan,2005,2.0,JAXA + other agencies
+Japan,2010,2.5,JAXA + other agencies
+Japan,2015,2.8,JAXA + other agencies
+Japan,2020,3.2,JAXA + other agencies
+Japan,2022,3.8,JAXA + other agencies
+Japan,2024,4.1,JAXA + other agencies

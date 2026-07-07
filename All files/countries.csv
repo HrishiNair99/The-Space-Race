@@ -1,0 +1,8 @@
+country,bloc,color_hex,sort_order,notes
+USA,Western,#3B82C4,1,United States — includes NASA + all commercial providers
+Russia,Soviet/Russian,#B22234,2,USSR and post-1991 Russia combined for narrative continuity
+China,Asian-Emerging,#DE2910,3,CASC/CNSA plus new commercial players
+India,Asian-Emerging,#FF9933,4,ISRO plus emerging commercial (Skyroot etc.)
+Europe,Western,#6B4FA0,5,ESA + Arianespace + national agencies (France Germany etc.)
+Japan,Asian-Emerging,#F59E0B,6,JAXA + commercial (Space One Interstellar)
+Others,Other,#6B7280,7,All remaining nations aggregated
